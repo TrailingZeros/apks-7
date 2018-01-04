@@ -2197,3 +2197,53 @@
 /Root/androidapps/Xbox 360 SmartGlass_1.7.apk
 /Root/androidapps/Xbox 360 SmartGlass_1.8.apk
 /Root/androidapps/Xbox 360 SmartGlass_1.84.apk
+/Root/androidapps/Xbox 360 SmartGlass_1.85.apk
+/Root/androidapps/Xbox SmartGlass_1.5.apk
+/Root/androidapps/YouTube Gaming_1.0.0.8.apk
+/Root/androidapps/YouTube_10.03.5.apk
+/Root/androidapps/YouTube_10.11.55 1.apk
+/Root/androidapps/YouTube_10.11.55.apk
+/Root/androidapps/YouTube_10.18.55.apk
+/Root/androidapps/YouTube_10.21.58.apk
+/Root/androidapps/YouTube_10.24.57.apk
+/Root/androidapps/YouTube_10.25.57.apk
+/Root/androidapps/YouTube_10.28.57.apk
+/Root/androidapps/YouTube_10.28.58.apk
+/Root/androidapps/YouTube_10.28.59.apk
+/Root/androidapps/YouTube_10.31.55.apk
+/Root/androidapps/YouTube_10.34.57.apk
+/Root/androidapps/YouTube_10.37.58.apk
+/Root/androidapps/YouTube_10.40.58.apk
+/Root/androidapps/YouTube_10.43.60.apk
+/Root/androidapps/YouTube_10.47.55.apk
+/Root/androidapps/YouTube_10.49.59.apk
+/Root/androidapps/YouTube_11.01.56.apk
+/Root/androidapps/YouTube_11.04.56.apk
+/Root/androidapps/YouTube_11.07.59.apk
+/Root/androidapps/YouTube_11.10.60.apk
+/Root/androidapps/YouTube_11.13.56.apk
+/Root/androidapps/YouTube_11.16.62.apk
+/Root/androidapps/YouTube_11.19.56.apk
+/Root/androidapps/YouTube_11.22.56.apk
+/Root/androidapps/YouTube_11.23.56.apk
+/Root/androidapps/YouTube_11.25.55.apk
+/Root/androidapps/YouTube_11.25.59.apk
+/Root/androidapps/YouTube_11.27.53.apk
+/Root/androidapps/YouTube_11.29.53.apk
+/Root/androidapps/YouTube_5.14.5.apk
+/Root/androidapps/YouTube_5.16.4.apk
+/Root/androidapps/YouTube_5.3.23.apk
+/Root/androidapps/YouTube_5.3.24.apk
+/Root/androidapps/YouTube_5.3.28.apk
+/Root/androidapps/YouTube_5.3.32.apk
+/Root/androidapps/YouTube共有アドレスの修正と再共有_2.1.apk
+/Root/androidapps/Zaicraft_0.1.0.apk
+/Root/androidapps/Zaicraft_0.1.2.apk
+/Root/androidapps/ZipSigner_3.4.apk
+/Root/androidapps/avast! Mobile Backup_1.0.6467.apk
+/Root/androidapps/com.android.backupconfirm_4.4-920375.apk
+/Root/androidapps/com.android.backupconfirm_4.4.2-937116.apk
+/Root/androidapps/com.android.backupconfirm_5.1-1743759.apk
+/Root/androidapps/com.android.backupconfirm_5.1-1743759.systag
+/Root/androidapps/com.android.backupconfirm_5.1.1-1863243.apk
+/Root/androidapps/com.android.backupconfirm_5.1.1-1863243.systag
